@@ -1,5 +1,5 @@
 // write your code below!
 function happyHolidays(string){
-  string = "Happy Holidays!"
+  string = "Happy holidays!"
   {return string}
 } 
