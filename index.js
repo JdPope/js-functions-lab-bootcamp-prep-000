@@ -4,7 +4,6 @@ function happyHolidays(string){
   {return string}
 } 
 
-function happyHolidaysTo(name){
-  name = "Jessica"
-  {return ('Happy holidays, ${name}!')}
-}
+function happyHolidaysTo(){
+  var name = "Jessica"
+  return "Happy holidays, ${name}!"}
